@@ -1,0 +1,18 @@
+<Texture name="tiles_sea_hd.png" />
+<Images>
+    <Image name="white.png" x="4" y="4" w="184" h="160" refx="0" refy="0" />
+    <Image name="lake1.png" x="192" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake2.png" x="4" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake3.png" x="194" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake4.png" x="4" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake5.png" x="194" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake6.png" x="382" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="lake7.png" x="384" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea1.png" x="572" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea2.png" x="384" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea3.png" x="574" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea4.png" x="762" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea5.png" x="574" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea6.png" x="764" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sea7.png" x="764" y="336" w="186" h="162" refx="0" refy="0" />
+</Images>

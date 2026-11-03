@@ -1,0 +1,28 @@
+<Texture name="tiles_sand_hd.png" />
+<Images>
+    <Image name="port1.png" x="225" y="403" w="166" h="170" refx="75" refy="86" />
+    <Image name="port2.png" x="162" y="577" w="157" h="163" refx="66" refy="85" />
+    <Image name="port3.png" x="194" y="910" w="195" h="108" refx="101" refy="28" />
+    <Image name="port4.png" x="4" y="414" w="154" h="180" refx="96" refy="83" />
+    <Image name="port5.png" x="4" y="598" w="152" h="168" refx="93" refy="87" />
+    <Image name="port6.png" x="574" y="735" w="191" h="118" refx="96" refy="85" />
+    <Image name="sand1.png" x="4" y="770" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand10.png" x="194" y="744" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand11.png" x="441" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand12.png" x="446" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand13.png" x="631" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand14.png" x="395" y="403" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand15.png" x="821" y="4" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand2.png" x="636" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand3.png" x="323" y="577" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand4.png" x="513" y="569" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand5.png" x="826" y="170" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand6.png" x="585" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand7.png" x="384" y="743" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand8.png" x="775" y="336" w="186" h="162" refx="0" refy="0" />
+    <Image name="sand9.png" x="703" y="502" w="186" h="162" refx="0" refy="0" />
+    <Image name="swamp1.png" x="4" y="4" w="214" h="199" refx="109" refy="97" />
+    <Image name="swamp2.png" x="4" y="207" w="217" h="203" refx="105" refy="106" />
+    <Image name="swamp3.png" x="222" y="4" w="215" h="195" refx="109" refy="88" />
+    <Image name="swamp4.png" x="225" y="203" w="217" h="196" refx="111" refy="93" />
+</Images>

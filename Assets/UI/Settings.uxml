@@ -1,0 +1,39 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/USS/Settings.uss?fileID=7433441132597879392&amp;guid=e3f4a5b6c7d84901a2b3c4d5e6f70819&amp;type=3#Settings" />
+    <ui:VisualElement name="root" class="root">
+        <ui:VisualElement name="settings-screen" class="settings-screen">
+            <ui:VisualElement class="settings-card">
+                <ui:Label text="SCENARIO EDITOR" class="title" />
+                <ui:Label text="Glory of Generals hex terrain generator" class="subtitle" />
+                <ui:Label text="Land Type" class="field-label" />
+                <ui:DropdownField name="land-type" class="field" style="height: 35px; font-size: 14px;" />
+                <ui:VisualElement class="row">
+                    <ui:VisualElement class="col">
+                        <ui:Label text="Width (cells)" class="field-label" />
+                        <ui:IntegerField name="map-width" value="24" class="field" style="font-size: 14px; height: 35px;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="col">
+                        <ui:Label text="Height (cells)" class="field-label" />
+                        <ui:IntegerField name="map-height" value="20" class="field" style="font-size: 14px; height: 35px;" />
+                    </ui:VisualElement>
+                </ui:VisualElement>
+                <ui:Label text="Water Percentage" class="field-label" />
+                <ui:VisualElement class="water-row">
+                    <ui:Slider name="water-percent" low-value="0" high-value="100" value="35" class="field" style="height: 35px;" />
+                    <ui:Label name="water-value" text="35%" class="water-value" />
+                </ui:VisualElement>
+                <ui:Label text="Scenario Name" class="field-label" />
+                <ui:TextField name="scenario-name" value="generated" class="field" style="height: 35px;" />
+                <ui:Button name="generate" text="GENERATE" class="generate" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="editor-hud" picking-mode="Ignore" class="editor-hud" style="display: none;">
+            <ui:Label name="cell-info" picking-mode="Ignore" class="cell-info" style="display: none;" />
+            <ui:VisualElement class="hud-actions">
+                <ui:Button name="save" text="SAVE JSON" class="hud-button" />
+                <ui:Button name="settings" text="SETTINGS" class="hud-button" />
+            </ui:VisualElement>
+            <ui:VisualElement name="palette" class="palette" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

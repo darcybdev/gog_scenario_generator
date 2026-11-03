@@ -1,0 +1,39 @@
+<Texture name="tiles_hd.pvr" />
+<Images>
+    <Image name="borealforest1.png" x="780" y="300" w="219" h="250" refx="121" refy="111" />
+    <Image name="borealforest2.png" x="970" y="2" w="205" h="229" refx="103" refy="110" />
+    <Image name="borealforest3.png" x="2" y="936" w="219" h="246" refx="121" refy="110" />
+    <Image name="borealforest4.png" x="817" y="552" w="190" h="234" refx="101" refy="122" />
+    <Image name="borealforest5.png" x="244" y="1745" w="206" h="232" refx="95" refy="121" />
+    <Image name="borealforest6.png" x="223" y="977" w="199" h="243" refx="96" refy="125" />
+    <Image name="desertforest1.png" x="487" y="1734" w="243" h="232" refx="121" refy="109" />
+    <Image name="desertforest2.png" x="731" y="1498" w="228" h="233" refx="114" refy="102" />
+    <Image name="desertforest3.png" x="1361" y="584" w="238" h="228" refx="109" refy="112" />
+    <Image name="desertforest4.png" x="1781" y="254" w="244" h="249" refx="129" refy="123" />
+    <Image name="poorhills1.png" x="1003" y="1213" w="392" h="304" refx="208" refy="121" />
+    <Image name="poorhills2.png" x="1346" y="298" w="379" h="284" refx="178" refy="101" />
+    <Image name="poorhills3.png" x="1009" y="691" w="350" h="236" refx="181" refy="84" />
+    <Image name="poorhills4.png" x="1003" y="929" w="368" h="282" refx="190" refy="100" />
+    <Image name="poorhills5.png" x="1001" y="233" w="329" h="221" refx="162" refy="93" />
+    <Image name="poorhills6.png" x="1009" y="456" w="335" h="233" refx="159" refy="88" />
+    <Image name="poormountains1.png" x="424" y="1219" w="325" h="277" refx="162" refy="101" />
+    <Image name="poormountains2.png" x="399" y="629" w="416" h="346" refx="214" refy="133" />
+    <Image name="poormountains3.png" x="606" y="2" w="362" h="296" refx="184" refy="117" />
+    <Image name="poormountains4.png" x="2" y="629" w="395" h="305" refx="198" refy="116" />
+    <Image name="poormountains5.png" x="388" y="300" w="390" h="327" refx="208" refy="123" />
+    <Image name="poormountains6.png" x="2" y="298" w="384" h="298" refx="195" refy="115" />
+    <Image name="snowmountains1.png" x="2" y="1222" w="300" h="259" refx="155" refy="97" />
+    <Image name="snowmountains2.png" x="424" y="977" w="287" h="240" refx="155" refy="96" />
+    <Image name="snowmountains3.png" x="2" y="2" w="300" h="294" refx="146" refy="132" />
+    <Image name="snowmountains4.png" x="304" y="2" w="300" h="251" refx="140" refy="109" />
+    <Image name="snowmountains5.png" x="1177" y="2" w="300" h="221" refx="143" refy="84" />
+    <Image name="snowmountains6.png" x="1479" y="2" w="300" h="294" refx="156" refy="147" />
+    <Image name="temperateforest1.png" x="2" y="1483" w="231" h="250" refx="105" refy="87" />
+    <Image name="temperateforest2.png" x="235" y="1498" w="250" h="245" refx="114" refy="116" />
+    <Image name="temperateforest3.png" x="751" y="977" w="250" h="250" refx="121" refy="117" />
+    <Image name="temperateforest4.png" x="1781" y="2" w="216" h="250" refx="133" refy="103" />
+    <Image name="tropicalforest1.png" x="751" y="1229" w="245" h="239" refx="103" refy="107" />
+    <Image name="tropicalforest2.png" x="487" y="1498" w="242" h="234" refx="112" refy="100" />
+    <Image name="tropicalforest3.png" x="732" y="1733" w="221" h="232" refx="107" refy="96" />
+    <Image name="tropicalforest4.png" x="2" y="1745" w="240" h="240" refx="127" refy="98" />
+</Images>
