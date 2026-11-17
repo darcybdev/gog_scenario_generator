@@ -1,0 +1,39 @@
+<Texture name="snow_hd.pvr" />
+<Images>
+    <Image name="airport1.png" x="1619" y="358" w="152" h="111" refx="80" refy="60" />
+    <Image name="airport2.png" x="1619" y="471" w="181" h="132" refx="92" refy="73" />
+    <Image name="airport3.png" x="1276" y="416" w="201" h="154" refx="102" refy="76" />
+    <Image name="antiaircraft.png" x="1433" y="572" w="113" h="97" refx="62" refy="96" />
+    <Image name="bunker.png" x="2" y="933" w="101" h="81" refx="54" refy="87" />
+    <Image name="city1.png" x="1281" y="709" w="113" h="97" refx="64" refy="48" />
+    <Image name="city2.png" x="1281" y="572" w="150" h="135" refx="70" refy="63" />
+    <Image name="city3.png" x="1095" y="678" w="184" h="153" refx="98" refy="74" />
+    <Image name="city4.png" x="227" y="2" w="207" h="205" refx="103" refy="98" />
+    <Image name="city5.png" x="2" y="2" w="223" h="210" refx="113" refy="118" />
+    <Image name="entrenchment.png" x="1479" y="356" w="138" h="151" refx="72" refy="76" />
+    <Image name="farmland1.png" x="1095" y="833" w="229" h="180" refx="121" refy="98" />
+    <Image name="farmland2.png" x="1077" y="485" w="197" h="191" refx="104" refy="98" />
+    <Image name="farmland3.png" x="1620" y="2" w="184" h="186" refx="95" refy="93" />
+    <Image name="farmland4.png" x="2" y="214" w="208" h="213" refx="101" refy="94" />
+    <Image name="farmland5.png" x="1242" y="217" w="224" h="197" refx="113" refy="101" />
+    <Image name="fort.png" x="105" y="933" w="111" h="84" refx="58" refy="86" />
+    <Image name="fort_gun.png" x="436" y="107" w="80" h="54" refx="57" refy="96" />
+    <Image name="greenhills1.png" x="533" y="2" w="334" h="242" refx="189" refy="103" />
+    <Image name="greenhills2.png" x="349" y="505" w="354" h="248" refx="171" refy="102" />
+    <Image name="greenhills3.png" x="1239" y="2" w="379" h="213" refx="181" refy="89" />
+    <Image name="greenhills4.png" x="869" y="257" w="371" h="226" refx="180" refy="104" />
+    <Image name="greenhills5.png" x="869" y="2" w="368" h="253" refx="189" refy="108" />
+    <Image name="greenhills6.png" x="533" y="246" w="334" h="257" refx="159" refy="84" />
+    <Image name="greenmountains1.png" x="713" y="712" w="380" h="265" refx="181" refy="111" />
+    <Image name="greenmountains2.png" x="2" y="693" w="345" h="238" refx="163" refy="100" />
+    <Image name="greenmountains3.png" x="212" y="214" w="319" h="204" refx="157" refy="95" />
+    <Image name="greenmountains4.png" x="349" y="755" w="362" h="239" refx="183" refy="108" />
+    <Image name="greenmountains5.png" x="2" y="429" w="337" h="262" refx="165" refy="127" />
+    <Image name="greenmountains6.png" x="705" y="505" w="370" h="205" refx="196" refy="88" />
+    <Image name="industy1.png" x="1860" y="163" w="155" h="111" refx="82" refy="54" />
+    <Image name="industy2.png" x="1396" y="709" w="181" h="142" refx="94" refy="70" />
+    <Image name="industy3.png" x="1806" y="2" w="204" h="159" refx="109" refy="84" />
+    <Image name="oilfield1.png" x="1468" y="217" w="171" h="137" refx="95" refy="74" />
+    <Image name="oilfield2.png" x="1641" y="190" w="217" h="166" refx="117" refy="73" />
+    <Image name="radar.png" x="436" y="2" w="84" h="103" refx="44" refy="106" />
+</Images>

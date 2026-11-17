@@ -1,0 +1,172 @@
+﻿<terrains>
+	<terrain name="land">
+		<tile idx="0" image="land1.png"/>
+		<tile idx="1" image="land2.png"/>
+		<tile idx="2" image="land3.png"/>
+		<tile idx="3" image="land4.png"/>
+		<tile idx="4" image="land5.png"/>
+		<tile idx="5" image="land6.png"/>
+		<tile idx="6" image="land7.png"/>
+		<tile idx="7" image="land8.png"/>
+		<tile idx="8" image="land9.png"/>
+		<tile idx="9" image="land10.png"/>
+		<tile idx="10" image="land11.png"/>
+		<tile idx="11" image="land12.png"/>
+		<tile idx="12" image="land13.png"/>
+		<tile idx="13" image="land14.png"/>
+		<tile idx="14" image="land15.png"/>
+	</terrain>
+	<terrain name="sea">
+		<tile idx="0" image="sea1.png"/>
+		<tile idx="1" image="sea2.png"/>
+		<tile idx="2" image="sea3.png"/>
+		<tile idx="3" image="sea4.png"/>
+		<tile idx="4" image="sea5.png"/>
+		<tile idx="5" image="sea6.png"/>
+		<tile idx="6" image="sea7.png"/>
+	</terrain>
+	<terrain name="coast">
+		<tile idx="0" image="coast0.png"/>
+		<tile idx="1" image="coast1.png"/>
+		<tile idx="2" image="coast2.png"/>
+		<tile idx="3" image="coast3.png"/>
+		<tile idx="4" image="coast4.png"/>
+		<tile idx="5" image="coast5.png"/>
+		<tile idx="6" image="coast6.png"/>
+		<tile idx="7" image="coast7.png"/>
+		<tile idx="8" image="coast8.png"/>
+		<tile idx="9" image="coast9.png"/>
+		<tile idx="10" image="coast10.png"/>
+		<tile idx="11" image="coast11.png"/>
+		<tile idx="12" image="coast12.png"/>
+		<tile idx="13" image="coast13.png"/>
+		<tile idx="14" image="coast14.png"/>
+		<tile idx="15" image="coast15.png"/>
+		<tile idx="16" image="coast16.png"/>
+		<tile idx="17" image="coast17.png"/>
+		<tile idx="18" image="coast18.png"/>
+		<tile idx="19" image="coast19.png"/>
+		<tile idx="20" image="coast20.png"/>
+		<tile idx="21" image="coast21.png"/>
+		<tile idx="22" image="coast22.png"/>
+		<tile idx="23" image="coast23.png"/>
+		<tile idx="24" image="coast24.png"/>
+		<tile idx="25" image="coast25.png"/>
+		<tile idx="26" image="coast26.png"/>
+		<tile idx="27" image="coast27.png"/>
+		<tile idx="28" image="coast28.png"/>
+		<tile idx="29" image="coast29.png"/>
+		<tile idx="30" image="coast30.png"/>
+		<tile idx="31" image="coast31.png"/>
+		<tile idx="32" image="coast32.png"/>
+		<tile idx="33" image="coast33.png"/>
+		<tile idx="34" image="coast34.png"/>
+		<tile idx="35" image="coast35.png"/>
+		<tile idx="36" image="coast36.png"/>
+		<tile idx="37" image="coast37.png"/>
+		<tile idx="38" image="coast38.png"/>
+		<tile idx="39" image="coast39.png"/>
+		<tile idx="40" image="coast40.png"/>
+		<tile idx="41" image="coast41.png"/>
+		<tile idx="42" image="coast42.png"/>
+		<tile idx="43" image="coast43.png"/>
+		<tile idx="44" image="coast44.png"/>
+		<tile idx="45" image="coast45.png"/>
+		<tile idx="46" image="coast46.png"/>
+		<tile idx="47" image="coast47.png"/>
+		<tile idx="48" image="coast48.png"/>
+		<tile idx="49" image="coast49.png"/>
+		<tile idx="50" image="coast50.png"/>
+		<tile idx="51" image="coast51.png"/>
+		<tile idx="52" image="coast52.png"/>
+		<tile idx="53" image="coast53.png"/>
+		<tile idx="54" image="coast54.png"/>
+		<tile idx="55" image="coast55.png"/>
+		<tile idx="56" image="coast56.png"/>
+		<tile idx="57" image="coast57.png"/>
+		<tile idx="58" image="coast58.png"/>
+		<tile idx="59" image="coast59.png"/>
+		<tile idx="60" image="coast60.png"/>
+		<tile idx="61" image="coast61.png"/>
+		<tile idx="62" image="coast62.png"/>
+	</terrain>
+	<terrain name="boreal forest">
+		<tile idx="0" image="borealforest1.png"/>
+		<tile idx="1" image="borealforest2.png"/>
+		<tile idx="2" image="borealforest3.png"/>
+		<tile idx="3" image="borealforest4.png"/>
+		<tile idx="4" image="borealforest5.png"/>
+		<tile idx="5" image="borealforest6.png"/>
+	</terrain>
+	<terrain name="temperate forest">
+		<tile idx="0" image="temperateforest1.png"/>
+		<tile idx="1" image="temperateforest2.png"/>
+		<tile idx="2" image="temperateforest3.png"/>
+		<tile idx="3" image="temperateforest4.png"/>
+	</terrain>
+	<terrain name="tropical forest">
+		<tile idx="0" image="tropicalforest1.png"/>
+		<tile idx="1" image="tropicalforest2.png"/>
+		<tile idx="2" image="tropicalforest3.png"/>
+		<tile idx="3" image="tropicalforest4.png"/>
+	</terrain>
+	<terrain name="desert forest">
+		<tile idx="0" image="desertforest1.png"/>
+		<tile idx="1" image="desertforest2.png"/>
+		<tile idx="2" image="desertforest3.png"/>
+		<tile idx="3" image="desertforest4.png"/>
+	</terrain>
+	<terrain name="green hills">
+		<tile idx="0" image="greenhills1.png"/>
+		<tile idx="1" image="greenhills2.png"/>
+		<tile idx="2" image="greenhills3.png"/>
+		<tile idx="3" image="greenhills4.png"/>
+		<tile idx="4" image="greenhills5.png"/>
+		<tile idx="5" image="greenhills6.png"/>
+	</terrain>
+	<terrain name="green mountains">
+		<tile idx="0" image="greenmountains1.png"/>
+		<tile idx="1" image="greenmountains2.png"/>
+		<tile idx="2" image="greenmountains3.png"/>
+		<tile idx="3" image="greenmountains4.png"/>
+		<tile idx="4" image="greenmountains5.png"/>
+		<tile idx="5" image="greenmountains6.png"/>
+	</terrain>
+	<terrain name="poor hills">
+		<tile idx="0" image="poorhills1.png"/>
+		<tile idx="1" image="poorhills2.png"/>
+		<tile idx="2" image="poorhills3.png"/>
+		<tile idx="3" image="poorhills4.png"/>
+		<tile idx="4" image="poorhills5.png"/>
+		<tile idx="5" image="poorhills6.png"/>
+	</terrain>
+	<terrain name="poor mountains">
+		<tile idx="0" image="poormountains1.png"/>
+		<tile idx="1" image="poormountains2.png"/>
+		<tile idx="2" image="poormountains3.png"/>
+		<tile idx="3" image="poormountains4.png"/>
+		<tile idx="4" image="poormountains5.png"/>
+		<tile idx="5" image="poormountains6.png"/>
+	</terrain>
+	<terrain name="snow mountains">
+		<tile idx="0" image="snowmountains1.png"/>
+		<tile idx="1" image="snowmountains2.png"/>
+		<tile idx="2" image="snowmountains3.png"/>
+		<tile idx="3" image="snowmountains4.png"/>
+		<tile idx="4" image="snowmountains5.png"/>
+		<tile idx="5" image="snowmountains6.png"/>
+	</terrain>
+	<terrain name="swamp">
+		<tile idx="0" image="swamp1.png"/>
+		<tile idx="1" image="swamp2.png"/>
+		<tile idx="2" image="swamp3.png"/>
+		<tile idx="3" image="swamp4.png"/>
+	</terrain>
+	<terrain name="farmland">
+		<tile idx="0" image="farmland1.png"/>
+		<tile idx="1" image="farmland2.png"/>
+		<tile idx="2" image="farmland3.png"/>
+		<tile idx="3" image="farmland4.png"/>
+		<tile idx="4" image="farmland5.png"/>
+	</terrain>
+</terrains>

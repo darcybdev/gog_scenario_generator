@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>World Conqueror 4</string>
+    <key>NSUserTrackingUsageDescription</key>
+    <string>World Conqueror 4 shares your device advertising identifier with our ad partner Google AdMob so the ads shown between battles match your interests, such as other strategy games, and so we can measure which ads led to installs.</string>
+</dict>
+</plist>
